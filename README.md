@@ -13,7 +13,7 @@ IABC Regina chapter will benefit from an updated website in a few impactful ways
 # Project documentation
 Customer Feedback Notes: https://github.com/BrydenTrakalo/271_Dagobahs/blob/main/Customer%20Feedback%20Notes.docx 
 
-User Story Map: https://github.com/BrydenTrakalo/271_Dagobahs/blob/main/UserStoryMap.pdf
+User Story Map: https://github.com/BrydenTrakalo/271_Dagobahs/blob/main/Dagobahs.png
 
 <p>&nbsp;</p>
 

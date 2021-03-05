@@ -15,13 +15,13 @@ Customer Feedback Notes: https://github.com/BrydenTrakalo/271_Dagobahs/blob/main
 
 User Story Map: https://github.com/BrydenTrakalo/271_Dagobahs/blob/main/UserStoryMap.pdf
 
-
+<p>&nbsp;</p>
 
 Activity 1 Documents: https://github.com/BrydenTrakalo/271_Dagobahs/tree/main/Activity1
 
 Activity 1 Outline: https://github.com/BrydenTrakalo/271_Dagobahs/blob/main/Activity1/Acitivity%201%20Outline.pdf 
 
-
+<p>&nbsp;</p>
 
 Activity 2 Documents: https://github.com/BrydenTrakalo/271_Dagobahs/tree/main/Activity2 
 

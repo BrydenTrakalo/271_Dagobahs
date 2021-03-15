@@ -37,6 +37,6 @@ Content Inventory: https://github.com/BrydenTrakalo/271_Dagobahs/blob/main/Activ
 
 Activity 3 Documents: https://github.com/BrydenTrakalo/271_Dagobahs/tree/main/Activity3
 
-Prototype: https://github.com/BrydenTrakalo/271_Dagobahs/blob/main/Activity2/High-Fidelity-IABC.xd
+Prototype: https://github.com/BrydenTrakalo/271_Dagobahs/blob/main/Activity3/High-Fidelity-IABC.xd
 
 

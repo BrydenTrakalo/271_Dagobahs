@@ -39,4 +39,4 @@ Activity 3 Documents: https://github.com/BrydenTrakalo/271_Dagobahs/tree/main/Ac
 
 Prototype: https://github.com/BrydenTrakalo/271_Dagobahs/blob/main/Activity3/High-Fidelity-IABC.xd
 
-
+Link to Course Concepts: https://github.com/BrydenTrakalo/271_Dagobahs/blob/main/Activity3/Link%20to%20Course%20Concepts.pdf
